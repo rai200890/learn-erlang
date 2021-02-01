@@ -19,6 +19,6 @@ compile("code.erl")
 
 Current Chapter:
 
-https://learnyousomeerlang.com/recursion
+https://learnyousomeerlang.com/errors-and-exceptions
 
-**More recursive functions**
+**A Compilation of Errors**
